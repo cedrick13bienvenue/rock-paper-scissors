@@ -2,6 +2,10 @@
 
 This repository contains a step-by-step implementation of the classic **Rock-Paper-Scissors** game in Python, based on the [WiredIn Academy](https://github.com/techgymjp/techgym_python_en) curriculum.
 
+## Prerequisites
+
+- Python 3.x
+
 ## Curriculum Outline
 
 Each folder contains a single exercise with increasing difficulty, building from basic input handling up to a fully functionalized game using lists and dictionaries.
