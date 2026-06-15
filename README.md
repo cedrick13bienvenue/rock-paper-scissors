@@ -23,6 +23,19 @@ Each folder contains a single exercise with increasing difficulty, building from
 | `1-7_repeat_draw/`         | `Jv5e.py`                    | repeating the game until there is a winner |
 | `main.py` (root)           | run the final game           | entry point to play the final version without navigating folders |
 
+## Concepts Covered
+
+| Concept                  | Introduced in  |
+|--------------------------|----------------|
+| `random.randint()`       | Step 1-1       |
+| `if/elif/else` chains    | Step 1-2       |
+| Functions                | Step 1-3       |
+| List indexing            | Step 1-4       |
+| Passing data via args    | Step 1-5       |
+| Dictionary lookups       | Step 1-6       |
+| Recursion                | Step 1-7       |
+| Dynamic module loading   | `main.py`      |
+
 ---
 
 ## How to Play
