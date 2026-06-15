@@ -54,3 +54,8 @@ your hand:
 ```
 
 If the result is a draw, the game repeats automatically until there is a winner.
+
+## Known Limitations
+
+- **No input validation** — entering a non-integer (e.g. typing `rock`) raises a `ValueError` and crashes the program.
+- **Recursion on draw** — the final version uses recursion instead of a loop. With an unlikely but theoretically unbounded sequence of draws, this could hit Python's default recursion limit of 1000.
