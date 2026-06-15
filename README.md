@@ -40,8 +40,17 @@ Each folder contains a single exercise with increasing difficulty, building from
 
 ## How to Play
 
-Run the `main.py` from the root directory:
+Run `main.py` from the root of the repository:
 
 ```bash
 python main.py
 ```
+
+You will be prompted to enter a number for your hand:
+
+```
+0: rock  1: scissors  2: paper
+your hand:
+```
+
+If the result is a draw, the game repeats automatically until there is a winner.
