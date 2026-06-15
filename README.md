@@ -27,3 +27,4 @@ Run the `main.py` from the root directory:
 
 ```bash
 python main.py
+```
