@@ -1,4 +1,4 @@
-# 🪨✂️📄 Rock-Paper-Scissors Python Project
+# Rock-Paper-Scissors Python Project
 
 This repository contains a step-by-step implementation of the classic **Rock-Paper-Scissors** game using python, based on the [WiredIn Academy](https://github.com/techgymjp/techgym_python_en).
 
